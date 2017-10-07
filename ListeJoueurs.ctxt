@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ListeJoueurs()
+comment1.params=ai\ humain\ cave
+comment1.target=ListeJoueurs(String[],\ String,\ int)
+comment10.target=int\ getNbJoueursEnJeu()
+comment11.params=nom
+comment11.target=void\ enleverJoueur(String)
+comment12.params=nom
+comment12.target=boolean\ existe(String)
+comment2.params=nom\ estHumain\ argent
+comment2.target=void\ ajouterJoueur(String,\ boolean,\ int)
+comment3.target=Player\ getPremier()
+comment4.target=boolean\ estVide()
+comment5.target=Player\ getDernier()
+comment6.params=nom
+comment6.target=void\ setPremier(String)
+comment7.params=n
+comment7.target=Player\ getJoueur(String)
+comment8.target=int\ getNbJoueurs()
+comment9.target=int\ getNbJoueursHJ()
+numComments=13

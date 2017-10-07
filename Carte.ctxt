@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=Carte(int)
+comment1.target=int\ getIndex()
+comment10.params=x
+comment10.target=String\ getNom(int)
+comment11.target=int\ id()
+comment12.params=x
+comment12.target=int\ id(int)
+comment2.target=int\ getCouleurIndex()
+comment3.params=x
+comment3.target=int\ getCouleurIndex(int)
+comment4.params=x
+comment4.target=char\ getCouleur(int)
+comment5.params=c
+comment5.target=String\ getCouleur(char)
+comment6.target=int\ getRangIndex()
+comment7.params=x
+comment7.target=int\ getRangIndex(int)
+comment8.params=x
+comment8.target=char\ getRang(int)
+comment9.params=x
+comment9.target=String\ getRangNom(int)
+numComments=13
