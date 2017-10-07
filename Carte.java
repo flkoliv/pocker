@@ -1,5 +1,5 @@
 
-public class Carte {
+public class Carte { 
 
     private int index;
 
